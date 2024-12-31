@@ -13,6 +13,8 @@ Elevate your health journey with our Diet &amp; Workout Recommendation System on
 - **Google Gemini Pro API:** Access to Google AI's text-generating capabilities.
 - **Langchain:** Library for interacting with Google AI models.
 
+  DEMO: https://nagasaidhanya-diet-and-workout-recommendation-using--app-payiaf.streamlit.app/
+
 ## Flowchart: Using Google Gemini Pro API Key in Diet and Workout Recommendation Project
 
 **Start**
