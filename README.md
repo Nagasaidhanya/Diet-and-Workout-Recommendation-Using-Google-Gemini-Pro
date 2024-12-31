@@ -31,26 +31,9 @@ Elevate your health journey with our Diet &amp; Workout Recommendation System on
 
 **--> (Optional) Offer additional functionalities** - Adjust preferences - Refine recommendations - Track progress - Access other diet/workout features
 
-**End**
 
 
-## Demo
 
-![88bc7558-2a0e-41cf-98db-594cca9cbcaa](https://github.com/m-rishab/Diet-and-workout-Recommendation-using-Google-Gemini-pro/assets/113618652/d70340d6-e32b-486d-b7cb-dfaa17b62d7a)
 
-## Live Project
 
-[https://diet-and-workout-recommendation-using-app-gemini-pro.streamlit.app/](https://diet-and-workout-recommendation-using-app-gemini-pro.streamlit.app/)
 
-## Setup and Usage
-
-1. Obtain a Google Gemini Pro API key.
-2. **Install required libraries:**
-
-   ```bash
-   pip install "library"
-
-## Run the Streamlit app:
-
-  ````Bash
-  streamlit run app.py   
