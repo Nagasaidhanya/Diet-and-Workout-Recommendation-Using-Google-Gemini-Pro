@@ -11,9 +11,7 @@ Elevate your health journey with our Diet &amp; Workout Recommendation System on
 
 - **Streamlit:** Framework for building web applications in Python.
 - **Google Gemini Pro API:** Access to Google AI's text-generating capabilities.
-- **Langchain:** Library for interacting with Google AI models.
-
-  DEMO: https://nagasaidhanya-diet-and-workout-recommendation-using--app-payiaf.streamlit.app/
+- **Langchain:** Library for interacting with Google 
 
 ## Flowchart: Using Google Gemini Pro API Key in Diet and Workout Recommendation Project
 
@@ -32,6 +30,7 @@ Elevate your health journey with our Diet &amp; Workout Recommendation System on
 **--> Present recommendations to user** - Display information in Streamlit interface
 
 **--> (Optional) Offer additional functionalities** - Adjust preferences - Refine recommendations - Track progress - Access other diet/workout features
+
 
 
 
