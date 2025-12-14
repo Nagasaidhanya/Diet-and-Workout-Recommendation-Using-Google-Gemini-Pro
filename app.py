@@ -12,7 +12,7 @@ import langchain.globals as lcg
 lcg.set_verbose(True)  # Enable verbose mode if needed
 
 # Set up the model and prompt template
-os.environ["GOOGLE_API_KEY"] = 'AIzaSyDW7mhJ7wX5bqN38K0sbS3LkUhtgkLa2tg'
+os.environ["GOOGLE_API_KEY"] =''
 generation_config = {"temperature": 0.6, "top_p": 1, "top_k": 1, "max_output_tokens": 2048}
 model = GoogleGenerativeAI(model="gemini-pro", generation_config=generation_config)
 
@@ -271,3 +271,4 @@ if submit_button:
 # Render Weekly Usage Tracking Graph
 st.markdown('<div class="subtitle">Weekly Usage Tracking</div>', unsafe_allow_html=True)
 create_usage_tracking_graph()
+
